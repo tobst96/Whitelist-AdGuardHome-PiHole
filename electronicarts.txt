@@ -1,3 +1,0 @@
-ea.com
-cdn.optimizely.com
-proxy.novafusion.ea.com

@@ -1,2 +1,5 @@
 spclient.wg.spotify.com
 api.spotify.com
+spclient.wg.spotify.com 
+apresolve.spotify.com
+api-tv.spotify.com

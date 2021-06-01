@@ -1,0 +1,6 @@
+redirector.gvt1.com
+android.clients.google.com
+connectivitycheck.android.com
+android.clients.google.com
+clients3.google.com
+connectivitycheck.gstatic.com

@@ -1,0 +1,8 @@
+ax.phobos.apple.com.edgesuite.net
+itunes.apple.com
+s.mzstatic.com
+appleid.apple.com
+captive.apple.com
+gsp1.apple.com
+www.apple.com 
+www.appleiphonecell.com
