@@ -6,12 +6,17 @@ p11.techlab-cdn.com
 h-sdk.online-metrix.net
 g.live.com
 ec-ns.sascdn.com
+netflix.com
+cdn.embedly.com
 dev.virtualearth.net
+tracking-protection.cdn.mozilla.net
 ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 chevrolet.com
 directvnow.com 
+www.no-ip.com
+dynupdate.no-ip.com
 directvapplications.hb.omtrdc.net 
 s.zkcdn.net 
 js.maxmind.com
@@ -46,3 +51,7 @@ weeklyad.target.com.edgesuite.net
 v.w-x.co
 gitter.im
 raw.githubusercontent.com
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
