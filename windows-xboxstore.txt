@@ -1,3 +1,0 @@
-dl.delivery.mp.microsoft.com 
-geo-prod.do.dsp.mp.microsoft.com 
-displaycatalog.mp.microsoft.com

@@ -18,3 +18,8 @@ eds.xboxlive.com
 www.xboxlive.com 
 v10.vortex-win.data.microsoft.com 
 settings-win.data.microsoft.com
+clientconfig.passport.net
+v20.events.data.microsoft.com
+client-s.gateway.messenger.live.com
+arc.msn.com
+activity.windows.com

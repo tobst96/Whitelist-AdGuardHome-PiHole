@@ -1,0 +1,8 @@
+prod.telemetry.ros.rockstargames.com
+tracking.epicgames.com
+tracking.epicgames.com
+79423.analytics.edgekey.net
+assets.adobedtm.com
+nexus.ensighten.com
+telemetry-console.api.playstation.com
+gdlp01.c-wss.com
