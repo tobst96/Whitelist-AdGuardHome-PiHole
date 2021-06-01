@@ -44,3 +44,5 @@ weeklyad.target.com
 m.weeklyad.target.com 
 weeklyad.target.com.edgesuite.net
 v.w-x.co
+gitter.im
+raw.githubusercontent.com
