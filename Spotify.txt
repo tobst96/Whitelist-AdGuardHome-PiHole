@@ -1,1 +1,2 @@
 spclient.wg.spotify.com
+api.spotify.com
