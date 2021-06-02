@@ -11,6 +11,6 @@ clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
-dl.google.com
+clients*.google.com
 dl.google.com
 android.clients.google.com
