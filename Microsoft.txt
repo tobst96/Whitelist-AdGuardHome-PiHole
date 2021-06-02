@@ -28,4 +28,4 @@ s4.symcb.com
 s5.symcb.com
 
 #Windows Updates
-^.windowsupdate.com
+*.windowsupdate.com
