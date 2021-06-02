@@ -57,6 +57,4 @@ t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 
 #WahtsApp
-g.whatsapp.net
-cdn.whatsapp.net
-media-ham3-1.cdn.whatsapp.net
+@@||whatsapp.net^
