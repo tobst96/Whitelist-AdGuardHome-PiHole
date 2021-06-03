@@ -61,6 +61,7 @@ t0.ssl.ak.tiles.virtualearth.net
 
 #TikTok
 *tiktokv.com
+*tiktokcdn.com
 
 #Feuerwehr Alamierungs App's
 *feuersoftware.com
