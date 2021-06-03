@@ -58,3 +58,7 @@ t0.ssl.ak.tiles.virtualearth.net
 
 #WahtsApp
 *whatsapp.net
+
+#Feuerwehr Alamierungs App's
+*feuersoftware.com
+*divera247.com
