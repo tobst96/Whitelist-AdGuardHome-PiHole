@@ -67,3 +67,9 @@ web.whatsapp.com
 #Feuerwehr Alamierungs App's
 *feuersoftware.com
 *divera247.com
+
+#Facebook
+*facebook.com
+
+#Instagram
+*instagram.com
