@@ -63,6 +63,7 @@ web.whatsapp.com
 #TikTok
 *tiktokv.com
 *tiktokcdn.com
+*tiktok.com
 
 #Feuerwehr Alamierungs App's
 *feuersoftware.com
