@@ -74,3 +74,9 @@ web.whatsapp.com
 
 #Instagram
 *instagram.com
+
+#Snapchat
+*snapchat.com
+
+#Octoprint
+tracking.octoprint.org
