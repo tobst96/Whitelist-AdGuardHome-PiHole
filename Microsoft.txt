@@ -30,4 +30,5 @@ s5.symcb.com
 #Windows Updates
 *.windowsupdate.com
 client.wns.windows.com
-v10.events.data.microsoft.com
+*.events.data.microsoft.com
+vortex.data.microsoft.com
