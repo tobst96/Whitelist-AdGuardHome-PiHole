@@ -38,3 +38,4 @@ video.xx.fbcdn.net
 external-ort2-1.xx.fbcdn.net 
 scontent-ort2-1.xx.fbcdn.net
 *fbcdn.net
+facebook.de^

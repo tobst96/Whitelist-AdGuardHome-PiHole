@@ -14,3 +14,6 @@ clients5.google.com
 clients*.google.com
 dl.google.com
 android.clients.google.com
+googlevideo.com
+ssl.google-analytics.com*
+googleads.g.doubleclick.net*
