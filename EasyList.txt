@@ -94,7 +94,7 @@ web.whatsapp.com
 *snapchat.com
 
 #Octoprint
-tracking.octoprint.orgtracking.octoprint.org
+tracking.octoprint.org
 
 portainer-ce.matomo.cloud
 analytics.ff.avast.com
