@@ -128,10 +128,6 @@ www.googletagmanager.com
 get.s-onetag.com
 signal-beacon.s-onetag.com
 www.google-analytics.com
-www.oculus.com
-support.oculus.com
-graph.oculus.com
-oculus.com
 eu.dspultra.com
 eu.dspultra.com
 notice.samsungcloudsolution.com
