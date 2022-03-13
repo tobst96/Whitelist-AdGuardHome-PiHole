@@ -35,3 +35,5 @@ windows.policies.live.net*
 client.wns.windows.com
 *.events.data.microsoft.com
 vortex.data.microsoft.com
+
+upload2.fp.measure.office.com
