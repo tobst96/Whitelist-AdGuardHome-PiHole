@@ -132,3 +132,7 @@ eu.dspultra.com
 eu.dspultra.com
 notice.samsungcloudsolution.com
 logging.dhg.myharmony.com
+upload2.fp.measure.office.com
+time.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
+dpu.samsungelectronics.com
