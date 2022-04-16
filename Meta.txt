@@ -39,3 +39,7 @@ external-ort2-1.xx.fbcdn.net
 scontent-ort2-1.xx.fbcdn.net
 *fbcdn.net
 facebook.de^
+www.oculus.com
+support.oculus.com
+graph.oculus.com
+oculus.com

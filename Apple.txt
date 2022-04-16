@@ -6,3 +6,5 @@ captive.apple.com
 gsp1.apple.com
 www.apple.com 
 www.appleiphonecell.com
+iadsdk.apple.com
+metrics.icloud.com*

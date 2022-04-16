@@ -26,3 +26,14 @@ s2.symcb.com
 s3.symcb.com
 s4.symcb.com
 s5.symcb.com
+vortex.data.microsoft.com*
+self.events.data.microsoft.com*
+umwatson.events.data.microsoft.com*
+windows.policies.live.net*
+#Windows Updates
+*.windowsupdate.com
+client.wns.windows.com
+*.events.data.microsoft.com
+vortex.data.microsoft.com
+
+upload2.fp.measure.office.com
