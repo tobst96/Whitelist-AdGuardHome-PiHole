@@ -1,10 +1,10 @@
-ax.phobos.apple.com.edgesuite.net
-itunes.apple.com
-s.mzstatic.com
-appleid.apple.com
-captive.apple.com
-gsp1.apple.com
-www.apple.com 
-www.appleiphonecell.com
-iadsdk.apple.com
-metrics.icloud.com*
+ax.phobos.apple.com.edgesuite.net^$ctag=os_ios
+itunes.apple.com^$ctag=os_ios
+s.mzstatic.com^$ctag=os_ios
+appleid.apple.com^$ctag=os_ios
+captive.apple.com^$ctag=os_ios
+gsp1.apple.com^$ctag=os_ios
+www.apple.com ^$ctag=os_ios
+www.appleiphonecell.com^$ctag=os_ios
+iadsdk.apple.com^$ctag=os_ios
+metrics.icloud.com*^$ctag=os_ios

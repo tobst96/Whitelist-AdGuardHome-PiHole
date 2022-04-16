@@ -1,6 +1,6 @@
-redirector.gvt1.com
-android.clients.google.com
-connectivitycheck.android.com
-android.clients.google.com
-clients3.google.com
-connectivitycheck.gstatic.com
+redirector.gvt1.com^$ctag=os_android
+android.clients.google.com^$ctag=os_android
+connectivitycheck.android.com^$ctag=os_android
+android.clients.google.com^$ctag=os_android
+clients3.google.com^$ctag=os_android
+connectivitycheck.gstatic.com^$ctag=os_android
