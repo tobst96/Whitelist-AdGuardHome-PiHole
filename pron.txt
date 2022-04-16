@@ -1,6 +1,6 @@
-*xhamster.com
-pornstar-thumb.xhcdn.com^
-thumb-user.xhcdn.com^
-ps-*.pubnub.com
-h.faphouse.com
+*xhamster.com^$ctag=user_regular|user_admin
+pornstar-thumb.xhcdn.com^^$ctag=user_regular|user_admin
+thumb-user.xhcdn.com^^$ctag=user_regular|user_admin
+ps-*.pubnub.com^$ctag=user_regular|user_admin
+h.faphouse.com^$ctag=user_regular|user_admin
 

@@ -1,2 +1,2 @@
-s.youtube.com
-video-stats.l.google.com
+s.youtube.com^$ctag=user_regular|user_admin
+video-stats.l.google.com^$ctag=user_regular|user_admin
