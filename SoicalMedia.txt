@@ -46,6 +46,7 @@ oculus.com
 (^|\.)tiktok\.com
 faq.whatsapp.com
 www.instagram.com
+dit.whatsapp.net
 
 #Quelle: https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
 api2-16-h2-eagle-useast2a.musical.ly.lan
