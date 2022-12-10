@@ -1074,3 +1074,6 @@ gateway.facebook.com
 #Instagram:
 graph.instagram.com
 i.instagram.com
+
+#Snapchat
+app-analytics-v2.snapchat.com
