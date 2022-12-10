@@ -3,4 +3,4 @@ pornstar-thumb.xhcdn.com^^$ctag=user_regular|user_admin
 thumb-user.xhcdn.com^^$ctag=user_regular|user_admin
 ps-*.pubnub.com^$ctag=user_regular|user_admin
 h.faphouse.com^$ctag=user_regular|user_admin
-
+pornhub.com
