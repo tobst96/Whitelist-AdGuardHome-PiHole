@@ -57,6 +57,17 @@ t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 api2.branch.io
 
+
+combine.asnapieu.com
+shopifysvc.com
+aggregator.service.usercentrics.eu
+cx.atdmt.com
+device-api.asnapieu.com
+remote-data.asnapieu.com
+ca.iadsdk.apple.com
+static.klaviyo.com
+c.paypal.com
+
 #WahtsApp
 whatsapp.net.com
 Stashed changes
