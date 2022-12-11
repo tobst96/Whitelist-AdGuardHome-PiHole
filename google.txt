@@ -17,3 +17,8 @@ android.clients.google.com
 googlevideo.com
 ssl.google-analytics.com*
 googleads.g.doubleclick.net*
+firebaselogging-pa.googleapis.com
+app-measurement.com
+www.googletagmanager.com
+ww.google-analytics.com
+googleads.g.doubleclick.net
