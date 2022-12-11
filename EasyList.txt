@@ -56,7 +56,7 @@ ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 api2.branch.io
-
+monorail-edge.shopifysvc.com
 
 combine.asnapieu.com
 shopifysvc.com
