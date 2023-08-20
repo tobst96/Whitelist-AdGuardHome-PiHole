@@ -67,6 +67,7 @@ remote-data.asnapieu.com
 ca.iadsdk.apple.com
 static.klaviyo.com
 c.paypal.com
+totalav.com
 
 #WahtsApp
 whatsapp.net.com
