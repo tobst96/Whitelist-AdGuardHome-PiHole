@@ -75,3 +75,9 @@ Stashed changes
 
 #Alexa
 fls-eu.amazon.com
+
+#Tibber
+iot.tibber.com
+api.tibber.com
+tibber.com
+time.aws.com
